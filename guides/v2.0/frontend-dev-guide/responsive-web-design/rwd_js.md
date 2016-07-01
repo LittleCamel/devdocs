@@ -28,7 +28,7 @@ The Blank and Luma themes use the following scripts to responsively relocate pag
 
 The script files are located in the file system as follows:
 <pre>
-├── app/design/frontend/Magento/blank/web/js/
+├── vendor/magento/theme-frontend-blank/web/js/
     ├── responsive.js
 ├── lib/web/
     ├── matchMedia.js
